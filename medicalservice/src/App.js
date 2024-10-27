@@ -1,19 +1,26 @@
 
 import './App.css';
-import Footer from './Medical-service/Footer';
-import Header from './Medical-service/Header';
-import Preloader from './Medical-service/Preloader';
-import Slider from './Medical-service/Slider';
-import Startshedule from './Medical-service/Startshedule';
+import Footer from './Medical-service/Footer/Footer';
+import Getpro from './Medical-service/Getpro/Getpro';
+import Header from './Medical-service/Header/Header';
+import Preloader from './Medical-service/Preloader/Preloader';
+import Slider from './Medical-service/Slider/Slider';
+
+import Startshedule from './Medical-service/Startshedule/Startshedule';
+
 
 function App() {
   return (
     <div className="App">
-     <Preloader/>
-     <Header/>
-     <Slider/>
-     <Startshedule/>
-     <Footer/>
+      <Preloader/>
+      <Getpro/>
+      <Header/>
+      <Slider/>
+      <Startshedule/>
+      <Footer/>
+     
+   
+
     </div>
   );
 }

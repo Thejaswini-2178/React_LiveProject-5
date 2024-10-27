@@ -1,0 +1,21 @@
+{
+    "topLinks": [
+      { "name": "About", "url": "#" },
+      { "name": "Doctors", "url": "#" },
+      { "name": "Contact", "url": "#" },
+      { "name": "FAQ", "url": "#" }
+    ],
+    "topContacts": [
+      { "icon": "fa fa-phone", "text": "+880 1234 56789" },
+      { "icon": "fa fa-envelope", "text": "support@yourmail.com", "mailto": true }
+    ],
+    "menuItems": [
+      { "name": "Home", "url": "#", "dropdown": [{ "name": "Home Page 1", "url": "index.html" }] },
+      { "name": "Doctors", "url": "#" },
+      { "name": "Services", "url": "#" },
+      { "name": "Pages", "url": "#", "dropdown": [{ "name": "404 Error", "url": "404.html" }] },
+      { "name": "Blogs", "url": "#", "dropdown": [{ "name": "Blog Details", "url": "blog-single.html" }] },
+      { "name": "Contact Us", "url": "contact.html" }
+    ]
+  }
+  

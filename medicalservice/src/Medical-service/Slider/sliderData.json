@@ -1,0 +1,30 @@
+[
+    {
+      "backgroundImage": "img/slider2.jpg",
+      "heading": "We Provide <span>Medical</span> Services That You Can <span>Trust!</span>",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed nisl pellentesque, faucibus libero eu, gravida quam.",
+      "buttons": [
+        { "text": "Get Appointment", "url": "#" },
+        { "text": "Learn More", "url": "#", "class": "primary" }
+      ]
+    },
+    {
+      "backgroundImage": "img/slider.jpg",
+      "heading": "We Provide <span>Medical</span> Services That You Can <span>Trust!</span>",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed nisl pellentesque, faucibus libero eu, gravida quam.",
+      "buttons": [
+        { "text": "Get Appointment", "url": "#" },
+        { "text": "About Us", "url": "#", "class": "primary" }
+      ]
+    },
+    {
+      "backgroundImage": "img/slider3.jpg",
+      "heading": "We Provide <span>Medical</span> Services That You Can <span>Trust!</span>",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed nisl pellentesque, faucibus libero eu, gravida quam.",
+      "buttons": [
+        { "text": "Get Appointment", "url": "#" },
+        { "text": "Contact Now", "url": "#", "class": "primary" }
+      ]
+    }
+  ]
+  

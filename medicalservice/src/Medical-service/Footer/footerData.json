@@ -1,0 +1,48 @@
+{
+    "about": {
+      "title": "About Us",
+      "description": "Lorem ipsum dolor sit am consectetur adipisicing elit do eiusmod tempor incididunt ut labore dolore magna.",
+      "socialLinks": [
+        { "platform": "facebook", "url": "#" },
+        { "platform": "google-plus", "url": "#" },
+        { "platform": "twitter", "url": "#" },
+        { "platform": "vimeo", "url": "#" },
+        { "platform": "pinterest", "url": "#" }
+      ]
+    },
+    "quickLinks": [
+      { "text": "Home", "url": "#" },
+      { "text": "About Us", "url": "#" },
+      { "text": "Services", "url": "#" },
+      { "text": "Our Cases", "url": "#" },
+      { "text": "Other Links", "url": "#" },
+      { "text": "Consulting", "url": "#" },
+      { "text": "Finance", "url": "#" },
+      { "text": "Testimonials", "url": "#" },
+      { "text": "FAQ", "url": "#" },
+      { "text": "Contact Us", "url": "#" }
+    ],
+    "openHours": {
+      "title": "Open Hours",
+      "description": "Lorem ipsum dolor sit ame consectetur adipisicing elit do eiusmod tempor incididunt.",
+      "hours": [
+        { "day": "Monday - Friday", "time": "8.00-20.00" },
+        { "day": "Saturday", "time": "9.00-18.30" },
+        { "day": "Monday - Thursday", "time": "9.00-15.00" }
+      ]
+    },
+    "newsletter": {
+      "title": "Newsletter",
+      "description": "Subscribe to our newsletter to get all our news in your inbox. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "formAction": "mail/mail.php"
+    },
+    "copyright": {
+      "year": "2018",
+      "text": "All Rights Reserved by",
+      "link": {
+        "text": "wpthemesgrid.com",
+        "url": "https://www.wpthemesgrid.com"
+      }
+    }
+  }
+  
